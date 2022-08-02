@@ -417,8 +417,9 @@
     line-height: 30px;
     margin: 0 5px;
 }
-
-
+.portfolioicon:hover a{
+    background-color: #428bca;
+}
 
 .team-flex {
     display: flex;
